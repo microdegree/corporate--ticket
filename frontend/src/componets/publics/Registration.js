@@ -82,7 +82,7 @@ class Registration extends Component {
                   <div className="d-flex justify-content-center">
                     <div className="card" id="login-card">
                       <div className="card-header">
-                        <h3 className="mt-5 sign">Citizens Registration</h3>
+                        <h3 className="mt-5 sign">Registration</h3>
                       </div>
                       <div className="card-body">
                         <form onSubmit={this.onSubmit}>

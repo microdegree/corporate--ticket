@@ -18,7 +18,7 @@ class Registration extends Component {
                 <div className="card cardH card-6 ">
                   <div className="card-heading">
                     <h2 className="title text-dark ">
-                      &nbsp;&nbsp;&nbsp;&nbsp;Department Registration
+                      &nbsp;&nbsp;&nbsp;&nbsp; Registration
                     </h2>
                   </div>
                   <div className="card-body  text-light">
